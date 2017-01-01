@@ -18,8 +18,8 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.astuetz.PagerSlidingTabStrip;
 
+import maxiaobu.mqlviewpagerlibrary.astuetz.PagerSlidingTabStrip;
 import maxiaobu.mqlviewpagerlibrary.header.HeaderDesign;
 import maxiaobu.mqlviewpagerlibrary.header.MaterialViewPagerImageHelper;
 
